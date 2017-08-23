@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.ibm.nodejstools.eclipse.core.internal.nodeinspector.LaunchConfigurationType">
+<booleanAttribute key="attr_break" value="true"/>
+<booleanAttribute key="attr_cli" value="false"/>
+<stringAttribute key="attr_debugport" value="5858"/>
+<stringAttribute key="attr_hidden_files" value=""/>
+<booleanAttribute key="attr_inject_console" value="true"/>
+<booleanAttribute key="attr_inject_network" value="true"/>
+<booleanAttribute key="attr_inject_profiles" value="true"/>
+<booleanAttribute key="attr_liveedit" value="true"/>
+<booleanAttribute key="attr_node_debug_program" value="true"/>
+<booleanAttribute key="attr_node_inspector_program" value="false"/>
+<stringAttribute key="attr_nodejs_options" value=""/>
+<booleanAttribute key="attr_preload" value="true"/>
+<stringAttribute key="attr_script" value=""/>
+<stringAttribute key="attr_script_options" value=""/>
+<stringAttribute key="attr_ssl_cert" value=""/>
+<stringAttribute key="attr_ssl_key" value=""/>
+<intAttribute key="attr_stack_frames" value="50"/>
+<stringAttribute key="attr_webhost" value="0.0.0.0"/>
+<stringAttribute key="attr_webport" value="8080"/>
+</launchConfiguration>

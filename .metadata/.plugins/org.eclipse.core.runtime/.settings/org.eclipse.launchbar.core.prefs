@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:Chapter03-index.js,org.eclipse.launchbar.core.descriptorType.default\:Chapter03_client.js,org.eclipse.launchbar.core.descriptorType.default\:Chapter03_speech_text.js,org.eclipse.launchbar.core.descriptorType.default\:Chapter03_index.js,org.eclipse.launchbar.core.descriptorType.default\:Chapter03_webs.js,org.eclipse.launchbar.core.descriptorType.default\:Chapter03-webs.js
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Chapter03-index.js/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Chapter03-index.js/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Chapter03_index.js/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
